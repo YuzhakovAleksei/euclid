@@ -1466,6 +1466,11 @@ section {
 
 @media (max-width: 425px){
 
+  .how-description-block {
+      padding-top: 201px;
+      max-width: 87vw;
+  }
+
   .about-img-text {
     font-size: 13px;
   }
