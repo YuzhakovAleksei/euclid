@@ -221,16 +221,16 @@ section {
   margin-right: 12px;
   margin-left: 70px;
   background-repeat: no-repeat;
-  background-image: url(/img/Search.svg);
+  background-image: url(../img/Search.svg);
 }
 
 .header-search-btn:hover,
 .header-search-btn:focus  {
-  background-image: url(/img/Search_hover.svg);
+  background-image: url(../img/Search_hover.svg);
 }
 
 .header-search-btn:active {
-  background-image: url(/img/Search_active.svg);
+  background-image: url(../img/Search_active.svg);
 }
 
 .search-btn-adaptive {
@@ -349,7 +349,7 @@ section {
   width: 49.2%;
   min-height: 622px;
   margin-right: 1.5vw;
-  background-image: url(/img/About_image.jpg);
+  background-image: url(../img/About_image.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -426,12 +426,12 @@ section {
   transform: translateY(-0.6vw);
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(/img/Group_box.svg);
+  background-image: url(../img/Group_box.svg);
 }
 
 .gear {
   height: 7.89vw;
-  background-image: url(/img/Group_Gear.svg);
+  background-image: url(../img/Group_Gear.svg);
 }
 
 .heading-block {
@@ -492,19 +492,19 @@ section {
 }
 
 .how-img-one {
-  background-image: url(/img/How_image.jpg);
+  background-image: url(../img/How_image.jpg);
 }
 
 .how-img-two {
-  background-image: url(/img/How_bkg2.jpg);
+  background-image: url(../img/How_bkg2.jpg);
 }
 
 .how-img-there {
-  background-image: url(/img/How_bkg3.jpg);
+  background-image: url(../img/How_bkg3.jpg);
 }
 
 .how-img-four {
-  background-image: url(/img/How_bkg4.jpg);
+  background-image: url(../img/How_bkg4.jpg);
 }
 
 .how-description-block {
@@ -643,13 +643,13 @@ section {
   height: 2.6vw;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(/img/+х.svg);
+  background-image: url(../img/+х.svg);
   transition: transform, ease-in-out, 500ms;
 }
 
 .plus:hover,
 .plus:focus {
-  background-image: url(/img/+х_hover.svg);
+  background-image: url(../img/+х_hover.svg);
 }
 
 .ui-state-active .plus {
@@ -728,15 +728,15 @@ section {
 }
 
 .icon-face {
-  background-image: url(/img/fb.png);
+  background-image: url(../img/fb.png);
 }
 
 .icon-vk {
-  background-image: url(/img/vk.png);
+  background-image: url(../img/vk.png);
 }
 
 .icon-inst {
-  background-image: url(/img/instagram.png);
+  background-image: url(../img/instagram.png);
 }
 
 .form-footer {
@@ -856,7 +856,7 @@ section {
     width: 30px;
     height: 23px;
     background-repeat: no-repeat;
-    background-image: url(/img/Burger.svg);
+    background-image: url(../img/Burger.svg);
   }
 
   .logo-header {
@@ -958,7 +958,7 @@ section {
     width: 970px;
     height: 640px;
     margin-right: 0;
-    background-image: url(/img/About_image_924.jpg);
+    background-image: url(../img/About_image_924.jpg);
   }
 
   .about-img-info {
@@ -1055,11 +1055,11 @@ section {
   }
 
   .how-img-one {
-    background-image: url(/img/How_image_437.png);
+    background-image: url(../img/How_image_437.png);
   }
 
   .how-img-two {
-    background-image: url(/img/How_bkg2_1024.jpg);
+    background-image: url(../img/How_bkg2_1024.jpg);
   }
 
   .how-img-there {
@@ -1067,7 +1067,7 @@ section {
   }
 
   .how-img-four {
-    background-image: url(/img/How_bkg4_1024.jpg);
+    background-image: url(../img/How_bkg4_1024.jpg);
   }
 
   .how-description-block {
@@ -1400,19 +1400,19 @@ section {
   }
 
   .how-img-one {
-    background-image: url(/img/How_image_668px_768.jpg);
+    background-image: url(../img/How_image_668px_768.jpg);
   }
 
   .how-img-two {
-    background-image: url(/img/How_bkg2_768.jpg);
+    background-image: url(../img/How_bkg2_768.jpg);
   }
 
   .how-img-there {
-    background-image: url(/img/How_bkg3_768.jpg);
+    background-image: url(../img/How_bkg3_768.jpg);
   }
 
   .how-img-four {
-    background-image: url(/img/How_bkg4_768.jpg);
+    background-image: url(../img/How_bkg4_768.jpg);
   }
 
   .how-description-block {
@@ -1602,7 +1602,7 @@ section {
   margin-bottom: 37px;
   background-size: 290px 200px;
   background-position: top;
-  background-image: url(/img/About_image_924.jpg);
+  background-image: url(../img/About_image_924.jpg);
  }
 
  .about-img-info {
@@ -1792,7 +1792,7 @@ section {
     height: 30px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/img/+х.svg);
+    background-image: url(../img/+х.svg);
   }
 
   .footer-container {
